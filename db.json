@@ -1,4 +1,9 @@
-{
+{  "Credentials":[
+   {"id":1,
+   "fullname":"simran",
+   "email":"simran@gmail.com",
+   "password":"abcd"}
+],
    "todo":[
       {"id":1,
       "title":"react js",
